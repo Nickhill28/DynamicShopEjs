@@ -20,6 +20,7 @@
     "express-handlebars": "^7.1.2",
     "fs": "^0.0.1-security",
     "mysql2": "^3.9.7",
-    "pug": "^3.0.2"
+    "pug": "^3.0.2",
+    "sequelize": "^6.37.3"
   }
 }
